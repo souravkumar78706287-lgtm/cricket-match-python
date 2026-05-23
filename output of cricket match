@@ -1,0 +1,70 @@
+..THE MATCH IS STARTED..
+Enter team1 name: rcb
+Enter team2 name csk
+rcb vs csk
+
+TOSS TIME
+Enter 1 for Head and 0 for Tail: 1
+rcb won toss and elected to bat
+
+Enter total overs: 2
+
+OVER 1
+Enter run/W/WD/NB: W
+WICKET
+harsh: out
+new batsman is sourav
+Score: 0/1
+Enter run/W/WD/NB: 4
+FOUR
+Score: 4/1
+Enter run/W/WD/NB: 3
+Score: 7/1
+Enter run/W/WD/NB: 6
+SIX
+Score: 13/1
+Enter run/W/WD/NB: 4
+FOUR
+Score: 17/1
+Enter run/W/WD/NB: w
+WICKET
+arnav: out
+new batsman is ankit
+Score: 17/2
+
+========== SCOREBOARD ==========
+Score: 17/2
+Overs: 1
+
+Striker: sourav - 7
+Non-Striker: ankit - 10
+Bowler: harsh
+the match is now over..
+
+OVER 2
+Enter run/W/WD/NB: 2
+Score: 19/2
+Enter run/W/WD/NB: 4
+FOUR
+Score: 23/2
+Enter run/W/WD/NB: 5
+Score: 28/2
+Enter run/W/WD/NB: 6
+SIX
+Score: 34/2
+Enter run/W/WD/NB: 4
+FOUR
+Score: 38/2
+Enter run/W/WD/NB: 3
+Score: 41/2
+
+========== SCOREBOARD ==========
+Score: 41/2
+Overs: 2
+
+Striker: ankit - 23
+Non-Striker: sourav - 18
+Bowler: arnav
+the match is now over..
+
+=== Code Execution Successful ===
